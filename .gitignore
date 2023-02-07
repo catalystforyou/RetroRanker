@@ -1,0 +1,9 @@
+__pycache__
+logs/
+.vscode/
+data/
+output/
+model/
+gh_ckpts/
+*.gz
+*.log

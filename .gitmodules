@@ -1,0 +1,3 @@
+[submodule "Graphormer"]
+	path = Graphormer
+	url = https://github.com/microsoft/Graphormer.git

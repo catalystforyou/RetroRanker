@@ -1,0 +1,1 @@
+nw=3 dataset=rsmiles bz=96 target=a100_all nohup bash itp/train_graphormer2.sh > bz96_a100_all.log &
