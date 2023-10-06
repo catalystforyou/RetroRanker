@@ -24,7 +24,7 @@ We provide the full scripts to generate training/testing data from raw predictio
 
 ### Step 0: Downloading and preparing the data
 
-We provide our data, trained checkpoint, and re-ranking scores prediction at [here](https://bdmstorage.blob.core.windows.net/shared/data_model_output.tar.gz). You may download the data and unzip the three folders below the root directory of the project (`RetroRanker/data, RetroRanker/model, RetroRanker/output`).
+We provide our data, trained checkpoint, and re-ranking scores prediction at [here](https://drive.google.com/drive/folders/1rpjyDV0b1N9H4aU0xqHiilgNe91WoKNc?usp=sharing). You may download the data and unzip the three folders below the root directory of the project (`RetroRanker/data, RetroRanker/model, RetroRanker/output`).
 
 ```
 wget https://bdmstorage.blob.core.windows.net/shared/data_model_output.tar.gz
